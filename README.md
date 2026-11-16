@@ -47,4 +47,4 @@ MIT — do whatever you want with it. The rock doesn't care.
 
 ---
 
-Made by [@gexhaw](https://github.com/gexhaw)
+Made by [@gexclash](https://github.com/gexclash)
